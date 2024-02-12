@@ -1,0 +1,6 @@
+﻿  main.c
+C:\Users\kurup\OneDrive\Desktop\Everything\DSA\Assignament\DSA\Que-Linked List\main.c(29,11): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  queue.c
+C:\Users\kurup\OneDrive\Desktop\Everything\DSA\Assignament\DSA\Que-Linked List\queue.c(53,30): warning C4028: formal parameter 1 different from declaration
+  Generating Code...
+  Que-Linked List.vcxproj -> C:\Users\kurup\OneDrive\Desktop\Everything\DSA\Assignament\DSA\x64\Debug\Que-Linked List.exe
